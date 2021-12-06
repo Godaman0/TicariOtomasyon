@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Views",
+    "\\Views\\Departman",
+    "\\Views\\Fatura",
+    "\\Views\\Galeri",
+    "\\Views\\istatistik",
+    "\\Views\\Kategori",
+    "\\Views\\Login",
+    "\\Views\\Personel"
+  ],
+  "SelectedNode": "\\Models\\Siniflar\\Departman.cs",
+  "PreviewInSolutionExplorer": false
+}
